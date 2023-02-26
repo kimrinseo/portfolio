@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'Modern No.20';
+  src: url('../font/MOD20.TTF')
+}
+
+@font-face {
+  font-family: 'Broadway';
+  src: url('../font/BROADW.TTF')
+}
+
+@font-face {
+  font-family: 'HYSinMyeongJo';
+  src: url('../font/HYSinMyeongJo.TTF')
+}
+
+@font-face {
+  font-family: 'CHILLER';
+  src: url('../font/CHILLER.TTF')
+}
+
+@font-face {
+    font-family: 'SangSangRock';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/SangSangRockOTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SBAggroB';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SBAggroB.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NanumSquareRound';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumSquareRound.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ulsanjunggu';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-02@1.0/ulsanjunggu.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RixInooAriDuriR';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2207-01@1.0/RixInooAriDuriR.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'KoPubWorld Batang Bold';
+  src: url('../font/KOPUBWORLD_TTF_FONTS-1/KoPubWorld Batang Bold.ttf')
+}
+@font-face {
+  font-family: 'KoPubWorld Batang Medium';
+  src: url('../font/KOPUBWORLD_TTF_FONTS-1/KoPubWorld Batang Medium.ttf')
+}
+@font-face {
+  font-family: 'KoPubWorld Batang Light';
+  src: url('../font/KOPUBWORLD_TTF_FONTS-1/KoPubWorld Batang Light.ttf')
+}
+
+@font-face {
+  font-family: 'COOPBL';
+  src: url('../font/COOPBL.TTF')
+}
+
+@font-face {
+    font-family: 'NanumSquareNeo-L';
+    src: url('../font/NaverNanumSquareNeo/OTF/NanumSquareNeoOTF-aLt.otf')
+}
+
+@font-face {
+    font-family: 'NanumSquareNeo-R';
+    src: url('../font/NaverNanumSquareNeo/OTF/NanumSquareNeoOTF-bRg.otf')
+}
+
+@font-face {
+    font-family: 'NanumSquareNeo-B';
+    src: url('../font/NaverNanumSquareNeo/OTF/NanumSquareNeoOTF-cBd.otf')
+}
+
+@font-face {
+    font-family: 'NanumSquareNeo-EB';
+    src: url('../font/NaverNanumSquareNeo/OTF/NanumSquareNeoOTF-dEb.otf')
+}
+
+@font-face {
+    font-family: 'NanumSquareNeo-H';
+    src: url('../font/NaverNanumSquareNeo/OTF/NanumSquareNeoOTF-eHv.otf')
+}
+
+@font-face {
+  font-family: 'INKLIPQUID';
+  src: url('../font/THEFACESHOP INKLIPQUID.ttf')
+}
+@font-face {
+  font-family: 'Nivea-Bold';
+  src: url('../font/Nivea-Bold.otf')
+}
+@font-face {
+  font-family: 'Nivea-Regular';
+  src: url('../font/Nivea-Regular.otf')
+}

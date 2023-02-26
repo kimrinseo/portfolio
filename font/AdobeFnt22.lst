@@ -1,0 +1,534 @@
+%!Adobe-FontList 1.22
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GowunBatang-Bold
+FamilyName:Gowun Batang
+StyleName:Bold
+FullName:Gowun Batang Bold
+MenuName:Gowun Batang
+StyleBits:2
+FamilyNameNative:Gowun Batang
+StyleNameNative:Bold
+FullNameNative:Gowun Batang Bold
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\Gowun_Batang\GowunBatang-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:8178604
+FileModTime:1623250800
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Gowun Batang
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GowunBatang-Regular
+FamilyName:Gowun Batang
+StyleName:Regular
+FullName:Gowun Batang Regular
+MenuName:Gowun Batang
+StyleBits:0
+FamilyNameNative:Gowun Batang
+StyleNameNative:Regular
+FullNameNative:Gowun Batang Regular
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\Gowun_Batang\GowunBatang-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:8433188
+FileModTime:1623250800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Gowun Batang
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\김린서\포트폴리오\Font\Gowun_Batang\OFL.txt
+FileModTime:1623250800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Kalam-Bold
+FamilyName:Kalam
+StyleName:Bold
+FullName:Kalam Bold
+MenuName:Kalam
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\김린서\포트폴리오\Font\Kalam\Kalam-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:460872
+FileModTime:1413471600
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Kalam
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Kalam-Light
+FamilyName:Kalam
+StyleName:Light
+FullName:Kalam Light
+MenuName:Kalam Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\김린서\포트폴리오\Font\Kalam\Kalam-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:437488
+FileModTime:1413471600
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Kalam Light
+NameArray:0,Win,16,Kalam
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Kalam-Regular
+FamilyName:Kalam
+StyleName:Regular
+FullName:Kalam
+MenuName:Kalam
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\김린서\포트폴리오\Font\Kalam\Kalam-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:427336
+FileModTime:1413471600
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Kalam
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\김린서\포트폴리오\Font\Kalam\OFL.txt
+FileModTime:1413471600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumSquareNeo-aLt
+FamilyName:NanumSquare Neo OTF
+StyleName:Light
+FullName:NanumSquare Neo OTF Light
+MenuName:나눔스퀘어 네오 OTF Light
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오 OTF
+StyleNameNative:Light
+FullNameNative:나눔스퀘어 네오 OTF Light
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\NaverNanumSquareNeo\OTF\NanumSquareNeoOTF-aLt.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1670688
+FileModTime:1657774372
+WeightClass:350
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo OTF Light
+NameArray:3,Mac,4,나눔스퀘어 네오 OTF Light
+NameArray:0,Win,1,NanumSquare Neo OTF Light
+NameArray:0,Win,16,NanumSquare Neo OTF
+NameArray:3,Win,1,나눔스퀘어 네오 OTF Light
+NameArray:3,Win,16,나눔스퀘어 네오 OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumSquareNeo-bRg
+FamilyName:NanumSquare Neo OTF
+StyleName:Regular
+FullName:NanumSquare Neo OTF Regular
+MenuName:나눔스퀘어 네오 OTF Regular
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오 OTF
+StyleNameNative:Regular
+FullNameNative:나눔스퀘어 네오 OTF Regular
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\NaverNanumSquareNeo\OTF\NanumSquareNeoOTF-bRg.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1669448
+FileModTime:1657774360
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo OTF Regular
+NameArray:3,Mac,4,나눔스퀘어 네오 OTF Regular
+NameArray:0,Win,1,NanumSquare Neo OTF Regular
+NameArray:0,Win,16,NanumSquare Neo OTF
+NameArray:3,Win,1,나눔스퀘어 네오 OTF Regular
+NameArray:3,Win,16,나눔스퀘어 네오 OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumSquareNeo-cBd
+FamilyName:NanumSquare Neo OTF
+StyleName:Bold
+FullName:NanumSquare Neo OTF Bold
+MenuName:나눔스퀘어 네오 OTF Bold
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오 OTF
+StyleNameNative:Bold
+FullNameNative:나눔스퀘어 네오 OTF Bold
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\NaverNanumSquareNeo\OTF\NanumSquareNeoOTF-cBd.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1643576
+FileModTime:1657774348
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo OTF Bold
+NameArray:3,Mac,4,나눔스퀘어 네오 OTF Bold
+NameArray:0,Win,1,NanumSquare Neo OTF Bold
+NameArray:0,Win,16,NanumSquare Neo OTF
+NameArray:3,Win,1,나눔스퀘어 네오 OTF Bold
+NameArray:3,Win,16,나눔스퀘어 네오 OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumSquareNeo-dEb
+FamilyName:NanumSquare Neo OTF
+StyleName:ExtraBold
+FullName:NanumSquare Neo OTF ExtraBold
+MenuName:나눔스퀘어 네오 OTF ExtraBold
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오 OTF
+StyleNameNative:ExtraBold
+FullNameNative:나눔스퀘어 네오 OTF ExtraBold
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\NaverNanumSquareNeo\OTF\NanumSquareNeoOTF-dEb.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1681484
+FileModTime:1657774336
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo OTF ExtraBold
+NameArray:3,Mac,4,나눔스퀘어 네오 OTF ExtraBold
+NameArray:0,Win,1,NanumSquare Neo OTF ExtraBold
+NameArray:0,Win,16,NanumSquare Neo OTF
+NameArray:3,Win,1,나눔스퀘어 네오 OTF ExtraBold
+NameArray:3,Win,16,나눔스퀘어 네오 OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumSquareNeo-eHv
+FamilyName:NanumSquare Neo OTF
+StyleName:Heavy
+FullName:NanumSquare Neo OTF Heavy
+MenuName:나눔스퀘어 네오 OTF Heavy
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오 OTF
+StyleNameNative:Heavy
+FullNameNative:나눔스퀘어 네오 OTF Heavy
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\NaverNanumSquareNeo\OTF\NanumSquareNeoOTF-eHv.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1673892
+FileModTime:1657774324
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo OTF Heavy
+NameArray:3,Mac,4,나눔스퀘어 네오 OTF Heavy
+NameArray:0,Win,1,NanumSquare Neo OTF Heavy
+NameArray:0,Win,16,NanumSquare Neo OTF
+NameArray:3,Win,1,나눔스퀘어 네오 OTF Heavy
+NameArray:3,Win,16,나눔스퀘어 네오 OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquareNeoTTF-aLt
+FamilyName:NanumSquare Neo
+StyleName:Light
+FullName:NanumSquare Neo Light
+MenuName:나눔스퀘어 네오 Light
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오
+StyleNameNative:Light
+FullNameNative:나눔스퀘어 네오 Light
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\NaverNanumSquareNeo\TTF\NanumSquareNeo-aLt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2185440
+FileModTime:1657774458
+WeightClass:350
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo Light
+NameArray:3,Mac,4,나눔스퀘어 네오 Light
+NameArray:0,Win,1,NanumSquare Neo Light
+NameArray:0,Win,16,NanumSquare Neo
+NameArray:3,Win,1,나눔스퀘어 네오 Light
+NameArray:3,Win,16,나눔스퀘어 네오
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquareNeoTTF-bRg
+FamilyName:NanumSquare Neo
+StyleName:Regular
+FullName:NanumSquare Neo Regular
+MenuName:나눔스퀘어 네오 Regular
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오
+StyleNameNative:Regular
+FullNameNative:나눔스퀘어 네오 Regular
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\NaverNanumSquareNeo\TTF\NanumSquareNeo-bRg.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2189500
+FileModTime:1657774482
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo Regular
+NameArray:3,Mac,4,나눔스퀘어 네오 Regular
+NameArray:0,Win,1,NanumSquare Neo Regular
+NameArray:0,Win,16,NanumSquare Neo
+NameArray:3,Win,1,나눔스퀘어 네오 Regular
+NameArray:3,Win,16,나눔스퀘어 네오
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquareNeoTTF-cBd
+FamilyName:NanumSquare Neo
+StyleName:Bold
+FullName:NanumSquare Neo Bold
+MenuName:나눔스퀘어 네오 Bold
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오
+StyleNameNative:Bold
+FullNameNative:나눔스퀘어 네오 Bold
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\NaverNanumSquareNeo\TTF\NanumSquareNeo-cBd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2173196
+FileModTime:1657774436
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo Bold
+NameArray:3,Mac,4,나눔스퀘어 네오 Bold
+NameArray:0,Win,1,NanumSquare Neo Bold
+NameArray:0,Win,16,NanumSquare Neo
+NameArray:3,Win,1,나눔스퀘어 네오 Bold
+NameArray:3,Win,16,나눔스퀘어 네오
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquareNeoTTF-dEb
+FamilyName:NanumSquare Neo
+StyleName:ExtraBold
+FullName:NanumSquare Neo ExtraBold
+MenuName:나눔스퀘어 네오 ExtraBold
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오
+StyleNameNative:ExtraBold
+FullNameNative:나눔스퀘어 네오 ExtraBold
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\NaverNanumSquareNeo\TTF\NanumSquareNeo-dEb.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2155384
+FileModTime:1657774392
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo ExtraBold
+NameArray:3,Mac,4,나눔스퀘어 네오 ExtraBold
+NameArray:0,Win,1,NanumSquare Neo ExtraBold
+NameArray:0,Win,16,NanumSquare Neo
+NameArray:3,Win,1,나눔스퀘어 네오 ExtraBold
+NameArray:3,Win,16,나눔스퀘어 네오
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquareNeoTTF-eHv
+FamilyName:NanumSquare Neo
+StyleName:Heavy
+FullName:NanumSquare Neo Heavy
+MenuName:나눔스퀘어 네오 Heavy
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오
+StyleNameNative:Heavy
+FullNameNative:나눔스퀘어 네오 Heavy
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\NaverNanumSquareNeo\TTF\NanumSquareNeo-eHv.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2121132
+FileModTime:1657774414
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo Heavy
+NameArray:3,Mac,4,나눔스퀘어 네오 Heavy
+NameArray:0,Win,1,NanumSquare Neo Heavy
+NameArray:0,Win,16,NanumSquare Neo
+NameArray:3,Win,1,나눔스퀘어 네오 Heavy
+NameArray:3,Win,16,나눔스퀘어 네오
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquareNeo-Variable
+FamilyName:NanumSquare Neo variable
+StyleName:Regular
+FullName:NanumSquare Neo variable
+MenuName:나눔스퀘어 네오 variable
+StyleBits:0
+FamilyNameNative:나눔스퀘어 네오 variable
+StyleNameNative:Regular
+FullNameNative:나눔스퀘어 네오 variable
+WritingScript:Korean
+OutlineFileName:E:\김린서\포트폴리오\Font\NaverNanumSquareNeo\Variable\NanumSquareNeo-Variable.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:8336056
+FileModTime:1649835372
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare Neo variable
+NameArray:3,Mac,4,나눔스퀘어 네오 variable
+NameArray:0,Win,1,NanumSquare Neo variable
+NameArray:0,Win,16,NanumSquare Neo variable
+NameArray:3,Win,1,나눔스퀘어 네오 variable
+NameArray:3,Win,16,나눔스퀘어 네오 variable
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\김린서\포트폴리오\Font\NaverNanumSquareNeo\Webfont\index_withVF.html
+FileModTime:1650592988
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\김린서\포트폴리오\Font\Oooh_Baby\OFL.txt
+FileModTime:1637852400
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OoohBaby-Regular
+FamilyName:Oooh Baby
+StyleName:Regular
+FullName:Oooh Baby Regular
+MenuName:Oooh Baby
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\김린서\포트폴리오\Font\Oooh_Baby\OoohBaby-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:130952
+FileModTime:1637852400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Oooh Baby
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\김린서\포트폴리오\Font\Pacifico\OFL.txt
+FileModTime:1299596400
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Pacifico-Regular
+FamilyName:Pacifico
+StyleName:Regular
+FullName:Pacifico Regular
+MenuName:Pacifico
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\김린서\포트폴리오\Font\Pacifico\Pacifico-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:315408
+FileModTime:1299596400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pacifico
+%EndFont
+
